@@ -1,9 +1,7 @@
 ## heya! XD
 
 <!--
-**b3b4c0/b3b4c0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - i'm tryng to learn how to do something here k
 - i'm learning about the basic codes and blablabla
